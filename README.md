@@ -19,7 +19,7 @@ Contains R files:
   - alldailyvalues-Bots.R
 - Code to calculate optimal treatment dates (uses paramsTreatfinalruns.RData and L3data.RData)
   - Run_treatment_2year.R
-- Code to calculate Q0 for alternative host scenarios (uses paramsQ0.RData)
+- Code to calculate Q0 for alternative host scenarios (uses paramsQ0.RData and Botsclimdat.RData)
   - run_Q0_sims.R
-- Code to calculate movement of parasites by migratory hosts (uses paramsMovement.RData)
+- Code to calculate movement of parasites by migratory hosts (uses paramsMovement.RData and Botsclimdat.RData)
   - run_movement.R
