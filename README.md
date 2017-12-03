@@ -1,7 +1,7 @@
 # parasite_transmission_Q0
 Code for Journal of Applied Ecology paper "Prediction and attenuation of seasonal spillover of parasites between wild and domestic ungulates in an arid mixed-use system" by Walker J, Evans K, Rose H, van Wyk J A, Morgan E R.
 
-The following RData files can be accessed on Dryad at XXXX:
+The following RData files can be accessed on Dryad at doi:10.5061/dryad.9jj84:
 - Climate data from study area (two locations labelled "East" and "West"), originally from Africa Drought Monitor http://stream.princeton.edu/AWCM/WEBPAGE/interface.php?locale=en
   - Botsclimdat.RData
 - Lists of host parameters to use to run Q0 model
